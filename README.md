@@ -36,4 +36,4 @@ Você pode me encontrar e entrar em contato comigo através das seguintes plataf
 - [LinkedIn](https://www.linkedin.com/in/hevelen-m%C3%A1ximo/)
 - [Email](mailto:hevelenmaximo@outlook.com)
 
-Estou sempre aberta a novas oportunidades e colaborações!
+Estou aberta a novas oportunidades e colaborações!
