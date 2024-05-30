@@ -16,6 +16,7 @@ Estou em constante aprendizado e desenvolvimento de novas habilidades. Atualment
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![VBA Excel](https://img.shields.io/badge/VBA-Excel-007ACC?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 Além disso, tenho experiência e conhecimento nas seguintes plataformas:
 
