@@ -1,11 +1,9 @@
 # Hevelen Máximo
 
 ## Sobre Mim
-Oi! Meu nome é Hevelen Máximo, sou uma entusiasta da tecnologia. Sempre fui apaixonada por jogos de computador e essa paixão me levou a me interessar profundamente pela área de tecnologia.
+Oi! Eu sou a Hevelen Máximo, apaixonada por tecnologia e jogos de computador. Acabei me formando em Ciências Contábeis, mas meu amor por tecnologia me levou ao Business Intelligence (BI). Trabalhei ajudando empresas a identificar e resolver problemas usando dados para melhorar as tomadas de decisão.
 
-Por obra do destino, acabei me formando em Ciências Contábeis. No entanto, meu desejo de trabalhar com tecnologia me fez mesclar minha carreira com Business Intelligence (BI). Assim, ajudei empresas a entenderem onde estavam os gargalos que causavam prejuízos, utilizando dados para ilustrar e resolver esses problemas.
-
-A área de BI despertou em mim o desejo de mergulhar ainda mais fundo no mundo da tecnologia. Por isso, recentemente comecei a cursar Análise e Desenvolvimento de Sistemas (ADS). Estou no primeiro período e estou amando cada momento.
+Agora, estou no primeiro período de Análise e Desenvolvimento de Sistemas (ADS) e estou adorando. Estou sempre em busca de aprender mais e explorar novas áreas na tecnologia.
 
 
 ## Tecnologias e Ferramentas
